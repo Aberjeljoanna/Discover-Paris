@@ -1,0 +1,73 @@
+/* Write some CSS below */
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Seasons Hotels</title>
+    <!-- Ajoutez ici vos liens vers des fichiers CSS, si nécessaire -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        header {
+            background-color: #f5f5dc; /* Beige */
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Contenu de la landing page -->
+    <header>
+        <h1>Four Seasons Hotels</h1>
+        <!-- Autres éléments de l'en-tête, si nécessaire -->
+    </header>
+
+    <!-- Autres sections et éléments de la landing page peuvent être ajoutés ici -->
+
+    <!-- Ajoutez ici vos liens vers des fichiers JavaScript, si nécessaire -->
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Four Seasons Hotels</title>
+    <!-- Ajoutez ici vos liens vers des fichiers CSS, si nécessaire -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #fff; /* Fond blanc */
+        }
+
+        header {
+            background-color: #f5f5dc; /* Beige */
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Contenu de la landing page -->
+    <header>
+        <h1>Four Seasons Hotels</
